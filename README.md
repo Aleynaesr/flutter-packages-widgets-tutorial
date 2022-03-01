@@ -22,6 +22,36 @@
   
 <hr> </hr>
 
+
+## Animated Circular Float Action Button Menu
+ 
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156224512-3d6aa47b-d575-47f4-9e73-96c33a78b876.gif" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+
+<hr> </hr>
+
+## Loading Spinners
+ 
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156224922-e19a0433-9b46-4064-b840-7137c1af7867.gif" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+  
+#### Packages in use:
+
+* flutter_spinkit: ^5.1.0
+  
+<hr> </hr>
+ 
+
 ## To use this app follow below instructions :
 #### Clone this app using below syntax:
 
